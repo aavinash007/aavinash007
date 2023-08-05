@@ -8,9 +8,7 @@
 
 - 💬 Ask me about **Python , Front-end Development**
 
-- 📫 How to reach me **avinashyadav131202@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DpGE-i91NFiV3gll_UZMsAK9lNopYE0M/view?usp=share_link](https://drive.google.com/file/d/1DpGE-i91NFiV3gll_UZMsAK9lNopYE0M/view?usp=share_link)
+- 📫 How to reach me **avinashyadav131202@gmail.com*
 
 - ⚡ Fun fact **Yes, you are Funny!👾**
 
